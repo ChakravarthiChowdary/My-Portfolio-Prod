@@ -1,0 +1,26 @@
+.error__content {
+  background-color: rgba(204, 0, 0, 0.65);
+}
+
+.banner__content {
+  padding: 0.5rem 1rem;
+  border-radius: 0.5rem;
+  display: flex;
+  align-items: center;
+}
+
+.success__content {
+  background-color: rgba(0, 204, 82, 0.79);
+}
+
+.banner__icon {
+  font-size: 1.5rem;
+  color: #fff;
+  margin-right: 1rem;
+}
+
+.banner__title {
+  font-size: var(--smaller-font-size);
+  color: #fff;
+  font-weight: var(--font-medium);
+}
